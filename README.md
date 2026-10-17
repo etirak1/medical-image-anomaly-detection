@@ -41,17 +41,6 @@ Medical imaging requires high precision and robustness to assist clinical diagno
 
 ---
 
-## 👥 Contributors
-
-This project was collaboratively developed by:
-
-| Contributor | Role / Focus | GitHub Profile |
-| :--- | :--- | :--- |
-| **Elma Tirak** | Preprocessing & Pipeline Integration | [@etirak1](https://github.com/etirak1) |
-| **[Ime Kolege]** | Feature Extraction & Modeling | [@username](https://github.com/username) |
-| **[Ime Kolege]** | Performance Evaluation & Testing | [@username](https://github.com/username) |
-
-*Course: Pattern Recognition and Image Processing | Faculty of Electrical Engineering, University of Sarajevo*
 
 ## 🚀 Getting Started
 
@@ -67,8 +56,8 @@ cd medical-image-anomaly-detection
 
 This project was collaboratively developed by:
 
-* **Ali Ljaljak**
-* **Elma Tirak**
-* **Amina Kazazović**
-* **Daris Mujkić**
-* **Benjamin Hadžihasanović**
+* Ali Ljaljak
+* Elma Tirak
+* Amina Kazazović
+* Daris Mujkić
+* Benjamin Hadžihasanović
